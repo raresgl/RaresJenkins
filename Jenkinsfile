@@ -4,12 +4,12 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building..'
+                echo 'RARES.'
             }
         }
         stage('Test') {
             steps {
-                echo 'Testing..'
+                echo 'INNEBUNESTE.'
             }
         }
         stage('Deploy') {
